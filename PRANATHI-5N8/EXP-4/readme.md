@@ -6,7 +6,7 @@ CREATE TABLE DEPT
     DNAME VARCHAR2(30)
 );
 ```
-![output](1.PNG)
+![output](1.jpeg)
 ```
 
 # Q2. Apply Primary Key constraint for DNO and NOT NULL constraint for DNAME.
